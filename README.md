@@ -1,6 +1,5 @@
 # md_excersise
 # Ćwiczenie: <h1>
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+* WSEI
+  * Lacze do strony uczelni: [WSEI](http://https://www.wsei.lublin.pl/)
+  * Lacze do wirtuaknego dziekanatu: [Wirtualny dziekanat](https://dziekanat.wsei.lublin.pl/)
