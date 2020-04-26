@@ -1,3 +1,3 @@
 # md_excersise
-Ćwiczenie
-_*in progress*_
+Ćwiczenie:
+* _*In progress*_
