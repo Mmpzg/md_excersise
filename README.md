@@ -1,3 +1,3 @@
 # md_excersise
-# This is an <h1> Ćwiczenie:
+# Ćwiczenie: <h1>
 * _*In progress*_
